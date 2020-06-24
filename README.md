@@ -20,3 +20,7 @@ function handleResize() {
 window.addEventListener('resize', handleResize);
 
 offline, online, etc...
+
+
+5. form
+form에서 엔터 누르면 제출됨.
