@@ -24,3 +24,8 @@ offline, online, etc...
 
 5. form
 form에서 엔터 누르면 제출됨.
+
+6. event.target
+
+7. filter in array
+forEach와 흡사. 조건에 맞지 않은 요소를 걸러냄.
